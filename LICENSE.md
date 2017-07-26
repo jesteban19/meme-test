@@ -2,7 +2,7 @@
 
 **YoU make Money, I make MoneY.** The license holder is allowed to use the software for free, as long as he doesn't make money by using it.
 
-Copyright (c) 2015-2017 Joseph Esteban <esteban.programador@gmail.com>
+Copyright (c) 2017 Joseph Esteban <esteban.programador@gmail.com>
 
 ## FREE for non-commercial use, PAID for commercial use
 

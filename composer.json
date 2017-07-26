@@ -1,0 +1,14 @@
+{
+    "name": "jesteban19/meme-test",
+    "description": "Generator meme, provider images and return image meme",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Esteban",
+            "email": "esteban.programador@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
