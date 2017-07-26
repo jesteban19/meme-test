@@ -4,11 +4,18 @@
     "type": "library",
     "license": "MIT",
     "authors": [
+
         {
             "name": "Joseph Esteban",
             "email": "esteban.programador@gmail.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require":{
+        "intervention/image": "^2.3",
+        "aira-virtual/promocodes" : "*"
+    },
+    "require-dev": {
+        "barryvdh/laravel-debugbar": "2.4.x-dev"
+    }
 }
