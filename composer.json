@@ -12,10 +12,11 @@
     ],
     "minimum-stability": "dev",
     "require":{
-        "intervention/image": "^2.3",
-        "aira-virtual/promocodes" : "*"
+        "intervention/image": "^2.3"
     },
-    "require-dev": {
-        "barryvdh/laravel-debugbar": "2.4.x-dev"
+    "autoload":{
+      "psr-4":{
+        "Jesteban19\\MemeTest\\": "src/"
+      }
     }
 }
